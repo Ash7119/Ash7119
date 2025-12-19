@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello I’m Adarsh Atyam.<br>A student at UIC majoring in Information and Decision Sciences.<br>Passionate about turning raw data into insights using analytics, problem-solving, and innovation.<br>I’m currently working on a project analyzing the 2022 Season of the WEC. Link: https://github.com/Ash7119/WEC-2022-Analysis
+Hello I’m Adarsh Atyam.<br>A student at UIC majoring in Information and Decision Sciences.<br>Passionate about turning raw data into insights using analytics, problem-solving, and innovation.<br>I’m currently working on a project analyzing the 2021 Season of the WEC. Link: https://github.com/Ash7119/WEC-2021-Analysis
 
 
 # 💻 Tech Stack:
