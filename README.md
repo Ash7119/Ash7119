@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello I’m Adarsh Atyam.<br>A student at UIC majoring in Information and Decision Sciences.<br>Passionate about turning raw data into insights using analytics, problem-solving, and innovation.<br>I’m currently working on a project analyzing the top 3 drivers of the 2025 Formula 1 Season(Feb-Present).<br> Link: https://github.com/Ash7119/2025-Formula-1-Season-Top-3-Drivers-Analysis
+Hello I’m Adarsh Atyam.<br>A student at UIC majoring in Information and Decision Sciences.<br>Passionate about turning raw data into insights using analytics, problem-solving, and innovation.<br>I’m currently working on a machine learning project which predicts the 2026 FIFA World Cup Winner.<br> Link: 
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adarsh-atyam/) 
